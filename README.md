@@ -3,7 +3,7 @@
 This Java program models the organizational structure of New Era University using the **Composite Design Pattern**, strictly following **Object-Oriented Programming principles** .
 
 
-## 🧱 Class Structure
+## Class Structure
 
 - `UniversityComponent.java` – Interface that defines all common operations  
 - `Student.java` – Leaf node representing a student  
@@ -14,7 +14,7 @@ This Java program models the organizational structure of New Era University usin
 
 ---
 
-## 🧪 Sample Output
+## Sample Output
 
 ```
 
@@ -54,3 +54,6 @@ Total Budget: ₱27000.0
   **Total Teacher Salaries − Total Student Tuition Fees**
 
 ---
+
+## UML Diagram
+![Image](https://github.com/user-attachments/assets/96b3dc44-3777-4780-b6c2-e966e4c807ca)
